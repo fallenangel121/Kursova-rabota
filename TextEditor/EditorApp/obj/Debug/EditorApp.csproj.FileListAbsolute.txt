@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\TextEditor\EditorApp\bin\Debug\EDITORSOURCE.dll
+C:\Users\Denis\Desktop\TextEditor\EditorApp\bin\Debug\EditorApp.exe.config
+C:\Users\Denis\Desktop\TextEditor\EditorApp\bin\Debug\EditorApp.exe
+C:\Users\Denis\Desktop\TextEditor\EditorApp\bin\Debug\EditorApp.pdb
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.Form1.resources
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.Properties.Resources.resources
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.exe
+C:\Users\Denis\Desktop\TextEditor\EditorApp\obj\Debug\EditorApp.pdb
